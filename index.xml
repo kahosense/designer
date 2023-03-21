@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KAHOSENSE</title>
+    <link>https://127.0.0.1:1313/</link>
+    <description>Recent content on KAHOSENSE</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://127.0.0.1:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>404</title>
+      <link>https://127.0.0.1:1313/404.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://127.0.0.1:1313/404.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://127.0.0.1:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://127.0.0.1:1313/about/</guid>
+      <description>Eternity is a minimalist Hugo theme designed for portfolio sites with a fresh feel. This is demo site for Eternity theme. All images are taken werwqrwefrom Unsplash. Features Configurable features.
+Multiple images support.
+Clean, fresh, minimalist.
+Integrated lazy load.
+Automaticly creates resized thumbnails.
+Shows exif if it exists.
+Installation Install Hugo.
+Create a new site.
+hugo new site yoursite cd yoursite Remove default config file.
+rm config.toml Submodule the theme.</description>
+    </item>
+    
+    <item>
+      <title>FLYING SOLO</title>
+      <link>https://127.0.0.1:1313/flying-solo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://127.0.0.1:1313/flying-solo/</guid>
+      <description>Original photo by Viktor zhulin on Unsplash</description>
+    </item>
+    
+    <item>
+      <title>FRAY</title>
+      <link>https://127.0.0.1:1313/fray/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://127.0.0.1:1313/fray/</guid>
+      <description>Original photo by Viktor zhulin on Unsplash</description>
+    </item>
+    
+    <item>
+      <title>I AM NOT CRYING</title>
+      <link>https://127.0.0.1:1313/i-am-not-crying/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://127.0.0.1:1313/i-am-not-crying/</guid>
+      <description>Original photo by Viktor zhulin on Unsplash</description>
+    </item>
+    
+    <item>
+      <title>INNOCENCE</title>
+      <link>https://127.0.0.1:1313/innocence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://127.0.0.1:1313/innocence/</guid>
+      <description>Original photo by Viktor zhulin on Unsplash</description>
+    </item>
+    
+    <item>
+      <title>JUST FRO A DAY</title>
+      <link>https://127.0.0.1:1313/i-dont-care/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://127.0.0.1:1313/i-dont-care/</guid>
+      <description>Original photo by Viktor zhulin on Unsplash</description>
+    </item>
+    
+    <item>
+      <title>JUST FRO A DAY</title>
+      <link>https://127.0.0.1:1313/just-fro-a-day/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://127.0.0.1:1313/just-fro-a-day/</guid>
+      <description>Original photo by Viktor zhulin on Unsplash</description>
+    </item>
+    
+    <item>
+      <title>LARGER</title>
+      <link>https://127.0.0.1:1313/larger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://127.0.0.1:1313/larger/</guid>
+      <description>Original photo by Viktor zhulin on Unsplash</description>
+    </item>
+    
+    <item>
+      <title>LET&#39;S ENJOY WINTER</title>
+      <link>https://127.0.0.1:1313/lets-enjoy-winter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://127.0.0.1:1313/lets-enjoy-winter/</guid>
+      <description>Original photo by Viktor zhulin on Unsplash</description>
+    </item>
+    
+    <item>
+      <title>LOOP</title>
+      <link>https://127.0.0.1:1313/loop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://127.0.0.1:1313/loop/</guid>
+      <description>Original photo by Viktor zhulin on Unsplash</description>
+    </item>
+    
+    <item>
+      <title>NO MEANS NO</title>
+      <link>https://127.0.0.1:1313/no-means-no/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://127.0.0.1:1313/no-means-no/</guid>
+      <description>Original photo by Viktor zhulin on Unsplash</description>
+    </item>
+    
+    <item>
+      <title>NOT DARK YET</title>
+      <link>https://127.0.0.1:1313/not-dark-yet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://127.0.0.1:1313/not-dark-yet/</guid>
+      <description>Original photo by Viktor zhulin on Unsplash</description>
+    </item>
+    
+    <item>
+      <title>PURE IMAGINATION</title>
+      <link>https://127.0.0.1:1313/pure-imagination/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://127.0.0.1:1313/pure-imagination/</guid>
+      <description>Original photo by Viktor zhulin on Unsplash</description>
+    </item>
+    
+    <item>
+      <title>SOUND IS COLOUR</title>
+      <link>https://127.0.0.1:1313/sound-is-colour/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://127.0.0.1:1313/sound-is-colour/</guid>
+      <description>Original photo by Viktor zhulin on Unsplash</description>
+    </item>
+    
+    <item>
+      <title>THE SENSE OF AN ENDING</title>
+      <link>https://127.0.0.1:1313/the-sense-of-an-ending/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://127.0.0.1:1313/the-sense-of-an-ending/</guid>
+      <description>Original photo by Viktor zhulin on Unsplash</description>
+    </item>
+    
+    <item>
+      <title>THEY DON&#39;T GIVE A FXXK</title>
+      <link>https://127.0.0.1:1313/they-dont-give-a-fxxk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://127.0.0.1:1313/they-dont-give-a-fxxk/</guid>
+      <description>Original photo by Viktor zhulin on Unsplash</description>
+    </item>
+    
+    <item>
+      <title>TONE</title>
+      <link>https://127.0.0.1:1313/tone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://127.0.0.1:1313/tone/</guid>
+      <description>Original photo by Viktor zhulin on Unsplash</description>
+    </item>
+    
+    <item>
+      <title>UNTITLED</title>
+      <link>https://127.0.0.1:1313/untitled/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://127.0.0.1:1313/untitled/</guid>
+      <description>Original photo by Viktor zhulin on Unsplash</description>
+    </item>
+    
+    <item>
+      <title>WEAK SPOT</title>
+      <link>https://127.0.0.1:1313/weak-spot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://127.0.0.1:1313/weak-spot/</guid>
+      <description>Original photo by Viktor zhulin on Unsplash</description>
+    </item>
+    
+    <item>
+      <title>WHITE NOISE</title>
+      <link>https://127.0.0.1:1313/every-moment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://127.0.0.1:1313/every-moment/</guid>
+      <description>Original photo by Viktor zhulin on Unsplash</description>
+    </item>
+    
+    <item>
+      <title>WHITE NOISE</title>
+      <link>https://127.0.0.1:1313/white-noise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://127.0.0.1:1313/white-noise/</guid>
+      <description>Original photo by Viktor zhulin on Unsplash</description>
+    </item>
+    
+    <item>
+      <title>YOU CAN&#39;T BE WISE AND IN LOVE AT THE SAME TIME</title>
+      <link>https://127.0.0.1:1313/you-cant-be-wise-and-in-love-at-the-same-time/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://127.0.0.1:1313/you-cant-be-wise-and-in-love-at-the-same-time/</guid>
+      <description>Original photo by Viktor zhulin on Unsplash</description>
+    </item>
+    
+  </channel>
+</rss>
