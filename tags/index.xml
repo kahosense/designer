@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tags on KAHOSENSE</title>
-    <link>https://kahosense.github.io/tags/</link>
+    <link>https://kahosense.github.io/designer/tags/</link>
     <description>Recent content in tags on KAHOSENSE</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://kahosense.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://kahosense.github.io/designer/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>work</title>
-      <link>https://kahosense.github.io/tags/work/</link>
+      <link>https://kahosense.github.io/designer/tags/work/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kahosense.github.io/tags/work/</guid>
+      <guid>https://kahosense.github.io/designer/tags/work/</guid>
       <description></description>
     </item>
     
